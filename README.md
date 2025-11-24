@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Pallavi 👋
 
-<!--
-**Aripirala1920/Aripirala1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Cyber Security / SOC Analyst** transitioning from a strong Computer Science & Analytics background into Security Operations.
 
-Here are some ideas to get you started:
+🔐 **What I'm focused on right now**
+- Learning and practicing **network security, Linux, and SOC fundamentals**
+- Hands-on with **Nmap, Wireshark, and SIEM tools (Wazuh basics)**
+- Building small labs, documenting attacks & detections
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ **Tech & Security Skills**
+- **Cyber Security:** Nmap, Wireshark, basic SIEM (Wazuh/Splunk fundamentals), log analysis, incident basics  
+- **Networking:** TCP/IP, OSI model, DNS, DHCP, VPN  
+- **Linux:** navigation, users, permissions, logs  
+- **Programming:** Python, SQL, Java  
+
+📂 **Highlighted Security Projects**
+- 🔎 [Nmap Vulnerability Scan & Report](#)  
+- 📡 [Wireshark Network Traffic Analysis](#)  
+- 📊 [Beginner SOC Lab with Wazuh (SIEM)](#)  
+
+🚀 **Currently learning**
+- Google Cyber Security (in progress)  
+- SOC analyst workflows (alerts → triage → documentation)  
+
+📫 **Reach me at**
+- Email: `pallaviaripirala30465@gmail.com`
+- LinkedIn: [linkedin.com/in/aripirala-pallavi-9b7b07335](https://www.linkedin.com)
